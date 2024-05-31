@@ -181,5 +181,36 @@ To run this project locally, follow these steps:
 
 ## FEATURES
 
-##LOGIN LIGHT
+## LOGIN LIGHT
 ![Login LightMode](screenshot/loginLightMode.png)
+
+## LOGIN DARK
+![Login DarkMode](screenshot/loginDarkMode.png)
+
+## ACTIVE SALE LIGHT
+![Active Sale LightMode](screenshot/activesaleLightMode.png)
+
+## ACTIVE SALE DARK
+![Active Sale DarkMode](screenshot/activesaleDarkMode.png)
+
+## COMPLETED SALE LIGHT
+![Completed Sale LightMode](screenshot/completedsaleLightMode.png)
+
+## COMPLETED SALE DARK
+![Completed Sale DarkMode](screenshot/completedsaleDarkMode.png)
+
+## CREATE NEW ORDER LIGHT
+![New Order LightMode](screenshot/addNewOrderLight.png)
+
+## CREATE NEW ORDER DARK
+![New Order DarkMode](screenshot/addNewOrderDark.png)
+
+## EDIT ORDER LIGHT
+![Edit Order LightMode](screenshot/editOrderLight.png)
+
+## EDIT ORDER DARK
+![Edit Order DarkMode](screenshot/editOrderDark.png)
+
+## #AGSPERT TECHNOLOGIES
+Project Assignment 
+
